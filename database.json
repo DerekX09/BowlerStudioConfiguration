@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/DerekX09/ChamferedParts_DerekX09.git": [
+      "https://github.com/DerekX09/ChamferedParts_DerekX09.git",
+      "1694561422261"
+    ],
     "https://github.com/DerekX09/cube_DerekX09.git": [
       "https://github.com/DerekX09/cube_DerekX09.git",
       "1694561297161"
@@ -10,9 +14,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/DerekX09/cube_DerekX09.git:cube.groovy": [
-      "https://github.com/DerekX09/cube_DerekX09.git",
-      "cube.groovy"
+    "https://github.com/DerekX09/ChamferedParts_DerekX09.git:ChamferedParts.groovy": [
+      "https://github.com/DerekX09/ChamferedParts_DerekX09.git",
+      "ChamferedParts.groovy"
     ]
   },
   "BowlerStudioConfigs": {
