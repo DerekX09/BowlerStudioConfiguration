@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/DerekX09/extrudePolygon_DerekX09.git": [
+      "https://github.com/DerekX09/extrudePolygon_DerekX09.git",
+      "1694561552708"
+    ],
     "https://github.com/DerekX09/ChamferedParts_DerekX09.git": [
       "https://github.com/DerekX09/ChamferedParts_DerekX09.git",
       "1694561422261"
@@ -14,9 +18,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/DerekX09/ChamferedParts_DerekX09.git:ChamferedParts.groovy": [
-      "https://github.com/DerekX09/ChamferedParts_DerekX09.git",
-      "ChamferedParts.groovy"
+    "https://github.com/DerekX09/extrudePolygon_DerekX09.git:extrudePolygon.groovy": [
+      "https://github.com/DerekX09/extrudePolygon_DerekX09.git",
+      "extrudePolygon.groovy"
     ]
   },
   "BowlerStudioConfigs": {
