@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/DerekX09/ParabolaTest_DerekX09.git": [
+      "https://github.com/DerekX09/ParabolaTest_DerekX09.git",
+      "1694561607589"
+    ],
     "https://github.com/DerekX09/extrudePolygon_DerekX09.git": [
       "https://github.com/DerekX09/extrudePolygon_DerekX09.git",
       "1694561552708"
@@ -18,9 +22,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/DerekX09/extrudePolygon_DerekX09.git:extrudePolygon.groovy": [
-      "https://github.com/DerekX09/extrudePolygon_DerekX09.git",
-      "extrudePolygon.groovy"
+    "https://github.com/DerekX09/ParabolaTest_DerekX09.git:ParabolaTest.groovy": [
+      "https://github.com/DerekX09/ParabolaTest_DerekX09.git",
+      "ParabolaTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
