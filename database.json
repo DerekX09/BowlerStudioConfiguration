@@ -45,7 +45,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/DerekX09/DerekXiangNametag.git:DerekXiangNametag.groovy": [
+      "https://github.com/DerekX09/DerekXiangNametag.git",
+      "DerekXiangNametag.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
