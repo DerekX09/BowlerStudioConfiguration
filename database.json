@@ -35,30 +35,17 @@
     "https://github.com/DerekX09/NamedSolids_DerekX09.git": [
       "https://github.com/DerekX09/NamedSolids_DerekX09.git",
       "1694614146475"
+    ],
+    "https://github.com/DerekX09/triangles_DerekX09.git": [
+      "https://github.com/DerekX09/triangles_DerekX09.git",
+      "1694614246313"
     ]
   },
   "studio-open-web": {},
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/DerekX09/resizeScale_DerekX09.git:resizeScale.groovy": [
-      "https://github.com/DerekX09/resizeScale_DerekX09.git",
-      "resizeScale.groovy"
-    ],
-    "https://github.com/DerekX09/NamedSolids_DerekX09.git:NamedSolids.groovy": [
-      "https://github.com/DerekX09/NamedSolids_DerekX09.git",
-      "NamedSolids.groovy"
-    ],
-    "https://github.com/DerekX09/RoundedCylinderTest_DerekX09.git:RoundedCylinderTest.groovy": [
-      "https://github.com/DerekX09/RoundedCylinderTest_DerekX09.git",
-      "RoundedCylinderTest.groovy"
-    ],
-    "https://github.com/DerekX09/javaCadHull_DerekX09.git:javaCadHull.groovy": [
-      "https://github.com/DerekX09/javaCadHull_DerekX09.git",
-      "javaCadHull.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
