@@ -50,6 +50,10 @@
     "printCSG": true
   },
   "studio-open-git": {
+    "https://github.com/DerekX09/arduinoSOS.git:arduinoSOS.ino": [
+      "https://github.com/DerekX09/arduinoSOS.git",
+      "arduinoSOS.ino"
+    ],
     "https://github.com/DerekX09/DerekXiangNametag.git:DerekXiangNametag.groovy": [
       "https://github.com/DerekX09/DerekXiangNametag.git",
       "DerekXiangNametag.groovy"
